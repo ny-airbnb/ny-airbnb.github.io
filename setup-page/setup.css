@@ -1,0 +1,12 @@
+a { 
+    background-color: orchid;
+    display: inline-block;
+    height: 50px;
+    width: 100px;
+    text-align: center;
+    vertical-align: middle;
+    margin-top: 5;
+}
+.Photo {
+left: 100px;
+}
