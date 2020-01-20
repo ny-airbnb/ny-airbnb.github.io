@@ -1,0 +1,36 @@
+body {
+    font-family: Montserrat, "Open Sans", Helvetica, Arial, sans-serif;
+}
+.section1 {
+    background-color: lightgray;
+    text-align: center;
+}
+.section2 {
+    border: 60px solid #fff;
+    text-align: center;
+}
+.per {
+    display: inline-flex;
+}
+
+.info 
+{
+border: 1px solid gray;
+font-size: 10px;
+width: 10px;
+height: 10px;
+border-radius: 10px;
+margin-left: 10px;
+padding: 2px;
+text-decoration: none;
+}
+button {  
+    color: white;
+    height :40px;
+    width: 200px;
+    background: rgb(255, 110, 110);
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+
+}
