@@ -1,0 +1,96 @@
+topnav {
+  background-color:grey;
+}
+
+.topnav a {
+  float: left;
+  color:black;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+.topnav-right {
+  float: right;
+}
+.img {
+  /* The image used */
+  background-image: url("img_nature.jpg");
+
+  min-height: 380px;
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+}
+
+/* Add styles to the form container */
+.container {
+  position: absolute;
+  right: 0;
+  margin: 20px;
+  max-width: 300px;
+  padding: 16px;
+  background-color: white;
+}
+
+
+input type="text" placeholder="New York" name="search" required> {
+  width: 100%;
+  padding: 15px;
+  margin: 5px 0 22px 0;
+  border: none;
+  background: #f1f1f1;
+}
+
+<input type="text" placeholder="Entire Place" name="search place" required> {
+  background-color: #ddd;
+  outline: none;
+}
+
+
+.btn {
+  background-color: #4CAF50;
+  color: white;
+  padding: 16px 20px;
+}
+.column {
+
+display: inline-block;
+width: 48%;
+margin: 0 auto;
+}
+
+body{
+
+  width: 950px;
+}
+
+.column3 {
+
+  display: inline-block;
+  width: 30%;
+
+ 
+}
+
+h1 {
+
+  text-align: center;
+  font-size: 60px;
+}
+
+.check-mark {
+
+  text-align: center;
+  border-radius: 30px;
+  font-size: 40px;
+}
+
+.btn {
+
+  font-size: 10px;
+  border: 0 0;
+}
