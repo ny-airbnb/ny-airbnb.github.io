@@ -1,5 +1,5 @@
 a { 
-    background-color: orchid;
+    background-color: yellow;
     display: inline-block;
     height: 50px;
     width: 100px;
@@ -7,6 +7,20 @@ a {
     vertical-align: middle;
     margin-top: 5;
 }
-.Photo {
-left: 100px;
+
+}
+.row{
+    display: flex;
+
+}
+.custom-height{
+    height: 600px;
+}
+
+section {
+    width: 800px;
+    margin: 50px auto;
+}
+.column {
+    display: inline-block;
 }
